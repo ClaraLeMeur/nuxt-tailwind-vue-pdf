@@ -30,6 +30,10 @@ $ npm run start
 $ npm run generate
 ```
 
+## Picture of the vue
+
+![Capture of the vue pdf](./assets/capture-vue-pdf.png)
+
 ## Link & Doc
 
 For detailed explanation on how **Nuxtjs** work, check out [Nuxt.js docs](https://nuxtjs.org).
